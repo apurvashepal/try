@@ -1,4 +1,4 @@
-Conflict data1
+ this is conflict
 Conflict data2
 Conflict data3
 Conflict data4
